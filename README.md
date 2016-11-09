@@ -4,6 +4,7 @@ Sample project using Solace 'On Behalf Of' subscription management with an MQTT 
 See the accompanying article at the Solace dev portal under the following URL:
 https://solace.com/blog/devops/obo-subscription-managers-mqtt
 
+# Getting Started Examples
 ## MQ Telemetry Transport (MQTT)
 
 MQTT is a standard lightweight protocol for sending and receiving messages. As such, in addition to information provided on the Solace [developer portal](http://dev.solacesystems.com/tech/mqtt/), you may also look at some external sources for more details about MQTT. The following are good places to start
